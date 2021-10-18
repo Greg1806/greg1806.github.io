@@ -4,7 +4,7 @@
 
 ### EPFL curriculum
 
-[Capstone project - Delay prediction in Swiss public transport netwrok](/sample_page.md)
+[Capstone project - Delay prediction in Swiss public transport netwrok](/read_me_capstone.md)
 <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
 
 ---
