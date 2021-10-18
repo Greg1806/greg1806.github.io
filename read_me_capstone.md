@@ -14,3 +14,5 @@ Primary: predict delays for train connections in swiss transport network
 * **Comparion of ML models and final conclusion:** "Capstone-project-GregoireLaurent-MLtasks"
   * ML models including: Logistic Regression, SVMs, Trees and Keras
   * Performance assement based on F1 scores and Area under Precision-Recall curve
+
+For more details see [GitHub Capstone project - Gregoire LAURENT](https://github.com/Greg1806/EPFL_Capstone_Project).
