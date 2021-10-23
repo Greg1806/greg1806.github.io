@@ -13,4 +13,4 @@ Secondary: Build an image classifier using Swissroads dataset which contains sev
   * SVMs
   * Keras
 
-For more details see [GitHub Capstone project - Gregoire LAURENT](https://github.com/Greg1806/EPFL_ML_projects).
+For more details see [GitHub ML projects - Swissroads - Gregoire LAURENT](https://github.com/Greg1806/EPFL_ML_projects).
