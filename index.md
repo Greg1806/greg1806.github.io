@@ -4,13 +4,13 @@
 
 ## EPFL curriculum
 
-### [Capstone project - Delay prediction in Swiss public transport netwrok](/read_me_capstone.md)
+### [Delay prediction - Swiss public transport network - Capstone project!](/read_me_capstone.md)
 
 <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
 
 ---
 ---
-### [Image classifiers - Swissroads](/read_me_img_class_epfl.md)
+### [Image classifiers - Swissroads dataset](/read_me_img_class_epfl.md)
 
 <img src="images/swissroads_examples.jpg?raw=true"/>
 <img src="images/swissroads_results.jpg?raw=true"/>
