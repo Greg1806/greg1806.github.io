@@ -6,9 +6,8 @@
 * Delay prediction
 * Image classifiers
 * House price prediction
-***
 
-
+---
 ### [Delay prediction - Swiss public transport network - Capstone project!](/read_me_capstone.md)
 
 <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
