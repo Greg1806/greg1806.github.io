@@ -10,7 +10,8 @@
 <!__ <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
 
 ---
-[Image classifiers - Swissroads](/pdf/sample_presentation.pdf)
+[Image classifiers - Swissroads](/read_me_img_class_epfl.md)
+<!__ (/pdf/sample_presentation.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
