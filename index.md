@@ -12,11 +12,13 @@
 ---
 [Image classifiers - Swissroads](/read_me_img_class_epfl.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/swissroads_results.jpg?raw=true"/>
+<img src="images/swissroads_pca.jpg?raw=true"/> <img src="images/swissroads_dense_loss_accuracy.jpg?raw=true"/>
 
 ---
 [Project 3 Title](https://github.com/Greg1806/EPFL_Capstone_Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
