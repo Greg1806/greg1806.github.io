@@ -35,6 +35,8 @@
 * Airbnb 1st booking destination prediction
 * Clustering in People Analytics
 
+***
+
 ### [Credit Card Fraud detection - Kaggle](http://example.com/)
 ### [Airbnb 1st booking prediction - Kaggle](http://example.com/)
 ### [People Analytics end-of-year clustering](http://example.com/)
