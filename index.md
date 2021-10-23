@@ -3,12 +3,16 @@
 ---
 
 ## EPFL curriculum
+* Delay prediction
+* Image classifiers
+* House price prediction
+***
+
 
 ### [Delay prediction - Swiss public transport network - Capstone project!](/read_me_capstone.md)
 
 <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
 
----
 ---
 ### [Image classifiers - Swissroads dataset](/read_me_img_class_epfl.md)
 
@@ -26,19 +30,13 @@
 ---
 ---
 
-## Additional projects
+## Personal projects
+* Credit Card Fraud detection
+* Airbnb 1st booking destination prediction
+* Clustering in People Analytics
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+### [Credit Card Fraud detection - Kaggle](http://example.com/)
+### [Airbnb 1st booking prediction - Kaggle](http://example.com/)
+### [People Analytics end-of-year clustering](http://example.com/)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
