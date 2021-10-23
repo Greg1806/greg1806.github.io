@@ -18,7 +18,7 @@
 <img src="images/swissroads_dense_loss_accuracy.jpg?raw=true"/>
 
 ---
-### [Project 3 Title](https://github.com/Greg1806/EPFL_Capstone_Project)
+### [House prices prediction - Boston Housing dataset](https://github.com/Greg1806/EPFL_Capstone_Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
