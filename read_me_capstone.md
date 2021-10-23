@@ -5,8 +5,8 @@ Capstone project for "Applied Data Science: Machine learning" course from EPFL i
 Switzerland public transports are known worldwide for their punctuality. I wanted to confirm this hypothesis that overall public transport are reliable while simulatenously assesing potential pockets of lower performance (e.g.: providers, stations or mean of transports with frequent and/or important delays)
 
 ## Objectives
-Primary: predict delays for train connections in swiss transport network
-<br> Secondary: assess transport network performance and identify regions/providers/lines with more frequent delays (part of EDA)
+**Primary:** predict delays for train connections in swiss transport network
+<br> **Secondary:** assess transport network performance and identify regions/providers/lines with more frequent delays (part of EDA)
 
 ## Content
 * **Project proposal including EDA:** "Capstone-proposal-GregoireLaurent-vFinal"
