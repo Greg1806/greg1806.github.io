@@ -7,7 +7,6 @@
 [Capstone project - Delay prediction in Swiss public transport netwrok](/read_me_capstone.md)
 
 <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
-<!__ <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
 
 ---
 [Image classifiers - Swissroads](/read_me_img_class_epfl.md)
