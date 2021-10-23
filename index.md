@@ -1,16 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### EPFL curriculum
+## EPFL curriculum
 
-[Capstone project - Delay prediction in Swiss public transport netwrok](/read_me_capstone.md)
+### [Capstone project - Delay prediction in Swiss public transport netwrok](/read_me_capstone.md)
 
 <img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
 
 ---
 ---
-[Image classifiers - Swissroads](/read_me_img_class_epfl.md)
+### [Image classifiers - Swissroads](/read_me_img_class_epfl.md)
 
 <img src="images/swissroads_examples.jpg?raw=true"/>
 <img src="images/swissroads_results.jpg?raw=true"/>
@@ -18,14 +18,14 @@
 <img src="images/swissroads_dense_loss_accuracy.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://github.com/Greg1806/EPFL_Capstone_Project)
+### [Project 3 Title](https://github.com/Greg1806/EPFL_Capstone_Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
 ---
 
-### Additional projects
+## Additional projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
