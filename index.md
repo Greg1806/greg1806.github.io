@@ -36,7 +36,7 @@
 
 ***
 
-### [Credit Card Fraud detection - Kaggle](http://example.com/)
+### [Credit Card Fraud detection - Kaggle](/read_me_cc_fraud.md)
 ### [Airbnb 1st booking prediction - Kaggle](http://example.com/)
 ### [People Analytics end-of-year clustering](http://example.com/)
 
