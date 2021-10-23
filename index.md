@@ -11,7 +11,6 @@
 
 ---
 [Image classifiers - Swissroads](/read_me_img_class_epfl.md)
-<!__ (/pdf/sample_presentation.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
