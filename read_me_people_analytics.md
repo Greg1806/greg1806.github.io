@@ -24,6 +24,7 @@ At the end of each year managers are asked to bucket team members as high/medium
 
 <img src="images/peopleanalytics_scatter.jpg?raw=true"/>
 
-**Can any patterns be identified for high performers** – Yes, they are over-performing across selected input metrics
-<br> **Are daily business expectations aligned with end-of-year review** – Yes, generally, a high performer will have out-performed on input metrics.
-<br> **Could high performers be identified solely from a this set of input metrics?** – No, while a high performer will have generally out-performed on those input metrics, the inverse does NOT hold.  Out-performance on input metrics did not predict high placement. We can assume that this is due to the fact that input metircs are measuring the WHAT but not the HOW (how many glasses do you break when getting the job done?) which also plays an important role.
+### Conclusion
+* **Can any patterns be identified for high performers** – Yes, they are over-performing across selected input metrics
+* **Are daily business expectations aligned with end-of-year review** – Yes, generally, a high performer will have out-performed on input metrics.
+* **Could high performers be identified solely from a this set of input metrics?** – No, while a high performer will have generally out-performed on those input metrics, the inverse does NOT hold.  Out-performance on input metrics did not predict high placement. We can assume that this is due to the fact that input metircs are measuring the WHAT but not the HOW (how many glasses do you break when getting the job done?) which also plays an important role.
