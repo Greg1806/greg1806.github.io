@@ -44,7 +44,7 @@
 
 ---
 
-### [Airbnb 1st booking prediction - Kaggle](/read_me_cc_airbnb.md)
+### [Airbnb 1st booking prediction - Kaggle](/read_me_airbnb.md)
 
 <img src="images/airbnb_nulls_card.jpg?raw=true"/>
 <img src="images/airbnb_age.jpg?raw=true"/>
