@@ -15,4 +15,8 @@ It is important that credit card companies are able to recognize fraudulent cred
   * Classification Report
   * Precision-Recall curve and optimized threshold
 
+<img src="images/cc_gridsearch_cv.jpg?raw=true"/>
+<img src="images/cc_gridsearch_cv_results.jpg?raw=true"/>
+<img src="images/cc_threshold.jpg?raw=true"/>
+
 For more details see [GitHub ML projects - Credit Card Fraud detection - Gregoire LAURENT](https://github.com/Greg1806/ML_projects/blob/main/Kaggle_CC_Fraud_detection.ipynb).
