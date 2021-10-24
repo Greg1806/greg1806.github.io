@@ -15,4 +15,6 @@ Switzerland public transports are known worldwide for their punctuality. I wante
   * ML models including: Logistic Regression, SVMs, Trees and Keras
   * Performance assement based on F1 scores and Area under Precision-Recall curve
 
+<img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
+
 For more details see [GitHub Capstone project - Gregoire LAURENT](https://github.com/Greg1806/EPFL_Capstone_Project).
