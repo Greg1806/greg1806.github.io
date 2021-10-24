@@ -12,6 +12,11 @@ New users on Airbnb can book a place to stay in 34,000+ cities across 190+ count
   * Data cleaning
   * Feature engineering
   * One-hot-encoding for categorical variables
+
+<img src="images/airbnb_nulls_card.jpg?raw=true"/>
+<img src="images/airbnb_age.jpg?raw=true"/>
+<img src="images/airbnb_correlation.jpg?raw=true"/>
+
 * **ML models**
   * DecisionTreeClassifier
   * LogisticRegression
