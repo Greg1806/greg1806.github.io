@@ -54,6 +54,10 @@
 
 ### [People Analytics end-of-year clustering](/read_me_people_analytics.md)
 
+<img src="images/peopleanalytics_boxplots.jpg?raw=true"/>
+<img src="images/peopleanalytics_correlation.jpg?raw=true"/>
+<img src="images/peopleanalytics_scatter.jpg?raw=true"/>
+
 ---
 ---
 
