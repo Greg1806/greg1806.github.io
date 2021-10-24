@@ -43,6 +43,11 @@
 <img src="images/cc_threshold.jpg?raw=true"/>
 
 ### [Airbnb 1st booking prediction - Kaggle](http://example.com/)
+
+<img src="images/airbnb_nulls_card.jpg?raw=true"/>
+<img src="images/airbnb_age.jpg?raw=true"/>
+<img src="images/airbnb_correlation.jpg?raw=true"/>
+
 ### [People Analytics end-of-year clustering](http://example.com/)
 
 ---
