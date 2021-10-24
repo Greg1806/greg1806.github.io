@@ -37,6 +37,11 @@
 ***
 
 ### [Credit Card Fraud detection - Kaggle](/read_me_cc_fraud.md)
+
+<img src="images/cc_grdisearch_cv.jpg?raw=true"/>
+<img src="images/cc_grdisearch_cv_results.jpg?raw=true"/>
+<img src="images/cc_threshold.jpg?raw=true"/>
+
 ### [Airbnb 1st booking prediction - Kaggle](http://example.com/)
 ### [People Analytics end-of-year clustering](http://example.com/)
 
