@@ -52,7 +52,7 @@
 
 ---
 
-### [People Analytics end-of-year clustering](http://example.com/)
+### [People Analytics end-of-year clustering](/read_me_people_analytics.md)
 
 ---
 ---
