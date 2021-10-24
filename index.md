@@ -57,4 +57,4 @@
 ---
 ---
 
-### Work in progress for more...:)
+### Work in progress for more...
