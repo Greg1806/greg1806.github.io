@@ -34,7 +34,7 @@
 * Airbnb 1st booking destination prediction
 * Clustering in People Analytics
 
-***
+---
 
 ### [Credit Card Fraud detection - Kaggle](/read_me_cc_fraud.md)
 
@@ -42,11 +42,15 @@
 <img src="images/cc_gridsearch_cv_results.jpg?raw=true"/>
 <img src="images/cc_threshold.jpg?raw=true"/>
 
-### [Airbnb 1st booking prediction - Kaggle](http://example.com/)
+---
+
+### [Airbnb 1st booking prediction - Kaggle](/read_me_cc_airbnb.md)
 
 <img src="images/airbnb_nulls_card.jpg?raw=true"/>
 <img src="images/airbnb_age.jpg?raw=true"/>
 <img src="images/airbnb_correlation.jpg?raw=true"/>
+
+---
 
 ### [People Analytics end-of-year clustering](http://example.com/)
 
