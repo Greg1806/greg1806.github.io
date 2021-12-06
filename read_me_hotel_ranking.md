@@ -29,3 +29,5 @@ For each searches done by customers expedia wants to show the most relevant hote
 
 ### Conclusion
 * **Pairwise overperforming pointwise** – For this specific exercises I could see XGBRanker overperforming RandomForestClassifier even if the RF was tuned and XGBRanker.
+
+For more details see [GitHub ML projects - Expedia Hotel Rnaking - Gregoire LAURENT](https://github.com/Greg1806/ML_projects/blob/main/Hotel_Ranking_Kaggle.ipynb).
