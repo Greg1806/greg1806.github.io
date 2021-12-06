@@ -61,7 +61,7 @@
 
 ---
 
-### [Learning to Rank - Expedia Hotel Ranking - Kaggle](/read_me_people_analytics.md)
+### [Learning to Rank - Expedia Hotel Ranking - Kaggle](/read_me_hotel_ranking.md)
 
 <img src="images/ranking_hcom.jpg?raw=true"/>
 <img src="images/ranking_corr.jpg?raw=true"/>
