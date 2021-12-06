@@ -33,6 +33,7 @@
 * Credit Card Fraud detection
 * Airbnb 1st booking destination prediction
 * Clustering in People Analytics
+* Expedia Hotel Ranking
 
 ---
 
@@ -57,6 +58,13 @@
 <img src="images/peopleanalytics_boxplots.jpg?raw=true"/>
 <img src="images/peopleanalytics_correlation.jpg?raw=true"/>
 <img src="images/peopleanalytics_scatter.jpg?raw=true"/>
+
+---
+
+### [Learning to Rank - Expedia Hotel Ranking - Kaggle](/read_me_people_analytics.md)
+
+<img src="images/ranking_hcom.jpg?raw=true"/>
+<img src="images/ranking_corr.jpg?raw=true"/>
 
 ---
 ---
