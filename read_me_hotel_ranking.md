@@ -1,30 +1,31 @@
-# People Analytics, end-of-year clustering and prediction
+# Learning to Rank, Hotel Ranking exercise - Kaggle
 
 ## Context
-At the end of each year managers are asked to bucket team members as high/medium/low performers. Idea is to try to understand if this bucketing/clustering could be done with ML clustering technics.
+For each searches done by customers expedia wants to show the most relevant hotel first. Using data from previous bookings the objective is to rank hotels based on their relevancy to each customers.
+
+<img src="images/ranking_hcom.jpg?raw=true"/>
 
 ## Objectives
-**Primary:** Analyze impact of key metrics on end-of-year performance
-<br> **Secondary:** Predict end-of-year cluster based on full year performance
+**Primary:** Predict best rankings with hotels on top which have the highest chances of being booked
+<br> **Secondary:** Compare performance of pointwise and pairwise models for ranking
 
 ## Content
-* **EDA**
+* **EDA and feature engineering**
+  * Handling NULLs
+  * Update data types
+  * reducing cardinality for features with high number of categories (keeping only Top X categories and setting others to "other")
 * **Analysis**
-  * Scatter plot
-  * Boxplot
-  * Correlation
+  * Correlation matrix
+  * Charts of features most correlated to target
 
-<img src="images/peopleanalytics_boxplots.jpg?raw=true"/>
-<img src="images/peopleanalytics_correlation.jpg?raw=true"/>
+<img src="images/ranking_corr.jpg?raw=true"/>
 
 * **ML tasks**
-  * Encoding, Scaler, Train_test_split
-  * Models: Baseline, DecisionTreeClassifier, LogisticRegression, RandomForest, K-NN
-  * Dimensionality reduction (PCA)
+  * Encoding of categorical features, Scaling of continuous features, Train_test_split
+  * Models: 
+    * pointwise: Logistic Regression (linear) and RandomForest (non-linear) including GridSearchCV => result of 0.44
+    * pairwise: XGBRanker from XGBoost => result of 0.47
 
-<img src="images/peopleanalytics_scatter.jpg?raw=true"/>
 
 ### Conclusion
-* **Can any patterns be identified for high performers** – Yes, they are over-performing across selected input metrics
-* **Are daily business expectations aligned with end-of-year review** – Yes, generally, a high performer will have out-performed on input metrics.
-* **Could high performers be identified solely from a this set of input metrics?** – No, while a high performer will have generally out-performed on those input metrics, the inverse does NOT hold.  Out-performance on input metrics did not predict high placement. We can assume that this is due to the fact that input metircs are measuring the WHAT but not the HOW (how many glasses do you break when getting the job done?) which also plays an important role.
+* **Pairwise overperforming pointwise** – For this specific exercises I could see XGBRanker overperforming RandomForestClassifier even if the RF was tuned and XGBRanker.
