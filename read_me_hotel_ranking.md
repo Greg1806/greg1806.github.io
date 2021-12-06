@@ -2,6 +2,7 @@
 
 ## Context
 For each searches done by customers expedia wants to show the most relevant hotel first. Using data from previous bookings the objective is to rank hotels based on their relevancy to each customers.
+<br> https://www.kaggle.com/c/expedia-hotel-ranking-exercise/overview
 
 <img src="images/ranking_hcom.jpg?raw=true"/>
 
