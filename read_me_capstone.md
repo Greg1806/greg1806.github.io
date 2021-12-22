@@ -1,6 +1,8 @@
 # Swiss public transport network delay predition (imbalanced dataset)
 Capstone project for "Applied Data Science: Machine learning" course from EPFL in Lausanne
 
+*Project presented by EPFL during ["Applied Machine Learning Days 2021: Impactful Projects Brought to Life" session](https://www.youtube.com/watch?v=S7a7xrJq-Tc) - starting at 30:30*
+
 ## Context
 Switzerland public transports are known worldwide for their punctuality. I wanted to confirm this hypothesis that overall public transport are reliable while simulatenously assesing potential pockets of lower performance (e.g.: providers, stations or mean of transports with frequent and/or important delays)
 
