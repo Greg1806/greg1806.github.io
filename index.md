@@ -34,6 +34,7 @@
 * Airbnb 1st booking destination prediction
 * Clustering in People Analytics
 * Expedia Hotel Ranking
+* Fantasy Premier LEague best team selection
 
 ---
 
@@ -62,6 +63,13 @@
 ---
 
 ### [Learning to Rank - Expedia Hotel Ranking - Kaggle](/read_me_hotel_ranking.md)
+
+<img src="images/ranking_hcom.jpg?raw=true"/>
+<img src="images/ranking_corr.jpg?raw=true"/>
+
+---
+
+### [Linear Programming and predictions - Fantasy Premier League](/read_me_hotel_ranking.md)
 
 <img src="images/ranking_hcom.jpg?raw=true"/>
 <img src="images/ranking_corr.jpg?raw=true"/>
