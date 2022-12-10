@@ -54,4 +54,4 @@ Fantasy Premier League is well-known online game where each week ~9million manag
 A. Overall many interesting findings on the key statistics behind FPL, however **given the nature of football it is hard to make accurate predictions only looking at historical data**
 <br>B. **Linear Programming allows to solve the complex equation trying to maximize points without going over the budegt**. Without LP calculating all different combinatinations and permutation would be almost impossible in regards to coputing power and time needed
 
-*For more details see [GitHub ML projects - Fantasy Premier League-Moneyball project - Gregoire LAURENT]([https://github.com/Greg1806/ML_projects/blob/main/Kaggle_airbnb.ipynb](https://github.com/Greg1806/ML_projects/blob/main/Fantasy_moneyball_project.ipynb))*
+*For more details see [GitHub ML projects - Fantasy Premier League-Moneyball project - Gregoire LAURENT](https://github.com/Greg1806/ML_projects/blob/main/Fantasy_moneyball_project.ipynb)*
