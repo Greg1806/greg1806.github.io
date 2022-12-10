@@ -9,6 +9,8 @@ Fantasy Premier League is well-known online game where each week ~9million manag
 2. Compare different models *(LinearRegression, KNN, RandomForest)* performance while attempting to **predict weekly points** per players based on key features identified
 3. **Pick best team** *(maximizing number of points)* per game weeks using LinearProgramming (PulP library)
 
+<img src="images/fpl_head_more.png?raw=true"/>
+
 ## Content
 
 ### Import, explore and prepare data
