@@ -22,8 +22,8 @@
 
 ---
 ### [House prices prediction - Boston Housing dataset](/read_me_house_prices_epfl.md)
-<img src="images/house_predict_results.jpg?raw=true" with="600">
-<img src="images/house_predict_dea.jpg?raw=true" witdh="600">
+<img src="images/house_predict_results.jpg?raw=true" width="700">
+<img src="images/house_predict_dea.jpg?raw=true" width="700">
 
 
 ---
@@ -40,15 +40,15 @@
 
 ### [Credit Card Fraud detection - Kaggle](/read_me_cc_fraud.md)
 
-<img src="images/cc_gridsearch_cv.jpg?raw=true"/>
-<img src="images/cc_gridsearch_cv_results.jpg?raw=true"/>
+<img src="images/cc_gridsearch_cv.jpg?raw=true" width="700">
+<img src="images/cc_gridsearch_cv_results.jpg?raw=true" width="800">
 <img src="images/cc_threshold.jpg?raw=true"/>
 
 ---
 
 ### [Airbnb 1st booking prediction - Kaggle](/read_me_airbnb.md)
 
-<img src="images/airbnb_nulls_card.jpg?raw=true"/>
+<img src="images/airbnb_nulls_card.jpg?raw=true" width="600">
 <img src="images/airbnb_age.jpg?raw=true"/>
 <img src="images/airbnb_correlation.jpg?raw=true"/>
 
@@ -64,14 +64,14 @@
 
 ### [Learning to Rank - Expedia Hotel Ranking - Kaggle](/read_me_hotel_ranking.md)
 
-<img src="images/ranking_hcom.jpg?raw=true"/>
+<img src="images/ranking_hcom.jpg?raw=true" width="700">
 <img src="images/ranking_corr.jpg?raw=true"/>
 
 ---
 
 ### [Linear Programming and predictions - Fantasy Premier League](/read_me_hotel_ranking.md)
 
-<img src="images/fpl_head.png?raw=true"/>
+<img src="images/fpl_head.png?raw=true" width="700">
 
 ### Objectives
 1. **Identify key statistics and metrics behind FPL** - validating or not assumptions, myths and beliefs
