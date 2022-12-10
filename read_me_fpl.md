@@ -36,7 +36,7 @@ Fantasy Premier League is well-known online game where each week ~9million manag
 
 ### ML models
 * Decision taken to **build 1 model for each position** *(Defenders, Midfielders, Forwards and Goalkeepers)* as features have different importance for each groups
-* Baseline, LinearRegression *(incl. hyperparameter tuning)*, KNN Regressor, RandomForest Regressor; **LinearRegression over-performing other models; KNN and RF over-fitting to train set**
+* Baseline, LinearRegression *(incl. hyperparameter tuning)*, KNN Regressor, RandomForest Regressor; **LinearRegression over-performing other models altoug all with low R2 performance; KNN and RF over-fitting to train set**
 
 ### Predictions
 * Use models fitted on '21/22 season to predict 1st half of '22/23 season; as previewed on validation set of '21/22 season **models seems to be struggling with predicting higher performance and tend to predict much lower values** *(which could work if ranking is still correct)*
