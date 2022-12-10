@@ -35,6 +35,7 @@ Fantasy Premier League is well-known online game where each week ~9million manag
 * Feature encoding
 
 <img src="images/fpl_eda_lp_bis.png?raw=true"/>
+<img src="images/fpl_agg_code.png?raw=true"/>
 
 ### ML models
 * Decision taken to **build 1 model for each position** *(Defenders, Midfielders, Forwards and Goalkeepers)* as features have different importance for each groups
