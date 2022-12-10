@@ -27,7 +27,7 @@ Fantasy Premier League is well-known online game where each week ~9million manag
   * *Which player to pick for which use cases?* **You wouldn't pick the same players if you are far behind with a couple of ronds left or if you are willing to defend your position. For example van Dijk was scoring 5+ points 60% of the time (vs.40% for Bowen), however Bowen scored 10+ points 25% of the time (vs. 10% for van Dijk). You will need to understand how much risk is worht taking**
 * Linear Programming on historical data (using pulp package)
   * *Best 15 players team which could have been picked based on previous season (no chips and costs based on season start)?* **1856 points (vs. 2844 winner vs. 1990 myself with no tranfers or team changes since season start)** 
-  * *Best 15 and 11 players teams which could have been picked at start of season (no chips and costs based on season start)?* **2962 points for 15 players and 2144 for 11 players**
+  * *Best 15 and 11 players teams which could have been picked at start of season (no chips and costs based on season start)?* **2962 points for 15 players and 2144 for 11 players; interesting to see combinations with less forwards scoring more points**
 * Correlation among key features
   * *Features most correlated with "Total points"?* **bps, value, influence, ict_index, minutes, clean_sheets, bonus, thread, creativity, ..**
 * Feature engineering
@@ -35,16 +35,17 @@ Fantasy Premier League is well-known online game where each week ~9million manag
 * Feature encoding
 
 ### ML models
-* Decision taken to build 1 model for each position *(Defenders, Midfielders, Forwards and Goalkeepers)* as features have different importance for each groups
-* Baseline, LinearRegression *(incl. hyperparameter tuning)*, KNN Regressor, RandomForest Regressor
+* Decision taken to **build 1 model for each position** *(Defenders, Midfielders, Forwards and Goalkeepers)* as features have different importance for each groups
+* Baseline, LinearRegression *(incl. hyperparameter tuning)*, KNN Regressor, RandomForest Regressor; **LinearRegression over-performing other models; KNN and RF over-fitting to train set**
 
 ### Predictions
+* Use models fitted on '21/22 season to predict 1st half of '22/23 season; as previewed on validation set of '21/22 season **models seems to be struggling with predicting higher performance and tend to predict much lower values** *(which could work if ranking is still correct)*
+* Linear Programming applied to select team for first 3 gameweeks based on previous season and then each gameweeks based on points predicted
+  * Relatively poor performance of teams selected based on points prediction and linear programming due to bad models accuracy/performance 
  
 <img src="images/airbnb_nulls_card.jpg?raw=true"/>
 <img src="images/airbnb_age.jpg?raw=true"/>
 <img src="images/airbnb_correlation.jpg?raw=true"/>
-
-
 
 ## Conclusion
 A. Overall many interesting findings on the key statistics behind FPL, however **given the nature of football it is hard to make accurate predictions only looking at historical data**
