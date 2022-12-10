@@ -10,20 +10,20 @@
 ---
 ### [Delay prediction - Swiss public transport network - Capstone project!](/read_me_capstone.md)
 
-<img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true"/>
+<img src="images/Capstone - SBB delay prediction - GregoireLaurent.jpg?raw=true" width="800">
 
 ---
 ### [Image classifiers - Swissroads dataset](/read_me_img_class_epfl.md)
 
 <img src="images/swissroads_examples.jpg?raw=true"/>
-<img src="images/swissroads_results.jpg?raw=true"/>
-<img src="images/swissroads_pca.jpg?raw=true"/> 
-<img src="images/swissroads_dense_loss_accuracy.jpg?raw=true"/>
+<img src="images/swissroads_results.jpg?raw=true" width="300">
+<img src="images/swissroads_pca.jpg?raw=true" width="700"> 
+<img src="images/swissroads_dense_loss_accuracy.jpg?raw=true" width="700">
 
 ---
 ### [House prices prediction - Boston Housing dataset](/read_me_house_prices_epfl.md)
-<img src="images/house_predict_results.jpg?raw=true"/>
-<img src="images/house_predict_dea.jpg?raw=true"/>
+<img src="images/house_predict_results.jpg?raw=true" with="600">
+<img src="images/house_predict_dea.jpg?raw=true" witdh="600">
 
 
 ---
