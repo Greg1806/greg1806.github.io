@@ -71,8 +71,12 @@
 
 ### [Linear Programming and predictions - Fantasy Premier League](/read_me_hotel_ranking.md)
 
-<img src="images/ranking_hcom.jpg?raw=true"/>
-<img src="images/ranking_corr.jpg?raw=true"/>
+### Objectives
+1. **Identify key statistics and metrics behind FPL** - validating or not assumptions, myths and beliefs
+2. Compare different models *(LinearRegression, KNN, RandomForest)* performance while attempting to **predict weekly points** per players based on key features identified
+3. **Pick best team** *(maximizing number of points)* per game weeks using LinearProgramming (PulP library)
+
+<img src="images/fpl_summary.png?raw=true"/>
 
 ---
 ---
