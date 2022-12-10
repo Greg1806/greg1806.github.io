@@ -34,20 +34,22 @@ Fantasy Premier League is well-known online game where each week ~9million manag
   * Decision taken after data exploration to leverage data of last 3 gameweeks (average or max depending on metrics) as well as meta data of upcoming game to feed ML models
 * Feature encoding
 
+<img src="images/fpl_agg_code.png?raw=true"/>
+
 ### ML models
 * Decision taken to **build 1 model for each position** *(Defenders, Midfielders, Forwards and Goalkeepers)* as features have different importance for each groups
 * Baseline, LinearRegression *(incl. hyperparameter tuning)*, KNN Regressor, RandomForest Regressor; **LinearRegression over-performing other models altoug all with low R2 performance; KNN and RF over-fitting to train set**
 
-<img src="images/fpl_models.jpg?raw=true"/>
-<img src="images/fpl_features_linreg.jpg?raw=true"/>
-<img src="images/fpl_qqplot_linReg.jpg?raw=true"/>
+<img src="images/fpl_models.png?raw=true"/>
+<img src="images/fpl_features_linreg.png?raw=true"/>
+<img src="images/fpl_qqplot_linReg.png?raw=true"/>
 
 ### Predictions
 * Use models fitted on '21/22 season to predict 1st half of '22/23 season; as previewed on validation set of '21/22 season **models seems to be struggling with predicting higher performance and tend to predict much lower values** *(which could work if ranking is still correct)*
 * Linear Programming applied to select team for first 3 gameweeks based on previous season and then each gameweeks based on points predicted
   * Relatively poor performance of teams selected based on points prediction and linear programming due to bad models accuracy/performance 
  
-<img src="images/fpl_rmse_positions.jpg?raw=true"/>
+<img src="images/fpl_rmse_positions.png?raw=true"/>
 
 ## Conclusion
 A. Overall many interesting findings on the key statistics behind FPL, however **given the nature of football it is hard to make accurate predictions only looking at historical data**
