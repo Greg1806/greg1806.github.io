@@ -87,6 +87,12 @@
 1. Analyze **shopping behaviors** and identify clusters of product in basket
 2. Measure impact and scale of **inflation** on products
 
+<img src="images/MBA_scatter_results.png?raw=true" width="400"/>
+<img src="images/MBA_results.png?raw=true" width="400"/>
+<img src="images/Cumulus_hours.png?raw=true" width="400"/>
+<img src="images/Cumulus_days.png?raw=true" width="400"/>
+<img src="images/Cumulus.png?raw=true" width="400"/>
+
 ---
 ---
 
