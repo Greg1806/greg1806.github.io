@@ -88,9 +88,7 @@
 2. Measure impact and scale of **inflation** on products
 
 <img src="images/MBA_scatter_result.png?raw=true" width="900"/>
-<img src="images/Cumulus_hours.png?raw=true" width="400"/>
-<img src="images/Cumulus_days.png?raw=true" width="400"/>
-<img src="images/Cumulus.png?raw=true" width="400"/>
+<img src="images/Cumulus_agg.png?raw=true" width="900"/>
 
 ---
 ---
