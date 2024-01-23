@@ -34,7 +34,8 @@
 * Airbnb 1st booking destination prediction
 * Clustering in People Analytics
 * Expedia Hotel Ranking
-* Fantasy Premier LEague best team selection
+* Fantasy Premier League best team selection
+* MBA on Supermarket data
 
 ---
 
@@ -79,6 +80,12 @@
 3. **Pick best team** *(maximizing number of points)* per game weeks using LinearProgramming (PulP library)
 
 <img src="images/fpl_summary.png?raw=true"/>
+
+---
+
+### Market Basket Analysis on Cumulus data
+1. Analyze **shopping behaviors** and identify clusters of product in basket
+2. Measure impact and scale of **inflation** on products
 
 ---
 ---
