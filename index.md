@@ -90,6 +90,8 @@
 <img src="images/MBA_scatter_result.png?raw=true" width="900"/>
 <img src="images/Cumulus_agg.png?raw=true" width="900"/>
 
+More details/Full notebook [HERE](https://github.com/Greg1806/ML_projects/blob/main/MBA%20Cumulus-checkpoint.ipynb)
+
 ---
 ---
 
