@@ -1,4 +1,5 @@
 # Portfolio
+(up to 2021; to be refreshed with AI projects ETA Q1 2027)
 
 ---
 
